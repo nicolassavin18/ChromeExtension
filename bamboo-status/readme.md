@@ -6,8 +6,8 @@ Install [CoffeeScript](http://coffeescript.org/#installation)
 In your terminal run
 
 ```
-git clone https://github.com/winner12263/angular-coffee-chrome-extension.git
-cd ./angular-coffee-chrome-extension/src
+git clone https://github.com/nicolassavin18/ChromeExtension.git
+cd ./ChromeExtension/bamboo-status/src
 cake
 cake build
 ```
