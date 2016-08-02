@@ -10,7 +10,7 @@
   "keywords": [
     "ProjectTabManager"
   ],
-  "author": "Viktor Johnson <viktor.j8979@outlook.com>",
+  "author": "Nicolas Savin <nicolassavin18@gmail.com>",
   "license": "Apache2.0",
   "devDependencies": {
     "grunt": "^0.4.5",
